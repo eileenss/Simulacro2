@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SImulacro2</string>
+    <string name="adopcion_title">Adopción de perritos</string>
+    <string name="adopcion_splash">Hacé tu vida más feliz</string>
+    <string name="home_menu">Home</string>
+    <string name="fav_menu">Favoritos</string>
+    <string name="adopcion_menu">Adopción</string>
+    <string name="publi_menu">Publicación</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

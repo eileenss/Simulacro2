@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/adopcion_menu"
+        android:icon="@drawable/ic_launcher_foreground"
+        android:title="@string/adopcion_menu" />
+    <item
+        android:id="@+id/publi_menu"
+        android:icon="@drawable/ic_launcher_foreground"
+        android:title="@string/publi_menu" />
+    <item
+        android:id="@+id/fav_menu"
+        android:icon="@drawable/ic_launcher_foreground"
+        android:title="@string/fav_menu" />
+
+    <item
+        android:id="@+id/home_menu"
+        android:icon="@android:drawable/btn_star_big_on"
+        android:title="@string/home_menu"
+        android:visible="true"/>
+
+</menu>
